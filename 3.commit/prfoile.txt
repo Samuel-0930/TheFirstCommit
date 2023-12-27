@@ -1,2 +1,2 @@
-email :
-gitID :
+email : samyeol0930@gmail.com
+gitID : samuel-0930
